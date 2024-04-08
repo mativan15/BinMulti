@@ -1,5 +1,5 @@
 #ifndef HEAD_H
 #define HEAD_H
 void iniciar();
-void input(int &n1, int &n2);
+void input(long long &n1, long long &n2, int bits);
 #endif

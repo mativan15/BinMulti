@@ -1,6 +1,6 @@
 CC = /usr/bin/clang++
 CFLAGS = -std=c++17 -stdlib=libc++ -g
-SRCS = main.cpp multi.cpp extra.cpp
+SRCS = main.cpp extra.cpp
 OBJS = $(SRCS:.cpp=.o)
 TARGET = arqui1
 
